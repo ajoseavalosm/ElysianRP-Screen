@@ -109,7 +109,7 @@ var l_messages = [
 "Respect other players and staff!",
 "Don't forget to donate do !donate",
 "To call for staff do @ in chat.",
-"VIP jobs with custom playey models!"
+"VIP jobs with custom player models!"
 ];
 
 /*Random message order?*/
