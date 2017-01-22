@@ -89,7 +89,7 @@ var l_musicPlaylist = [
 	{youtube: "J2X5mJ3HDYE", name: "DEAF KEV - Invincible"},
 	{youtube: "S1g4Uoqhhc8", name: "Major Lazer - Be Together"},
 	{youtube: "gxE4ngu78Ro", name: "Blackbear - Idfc (Tarro Remix)"},
-	{youtube: "4F0LKs4sYFo", name: "The White Stripes - Seven Nation Army"},
+	{youtube: "plqFvp6nm9o", name: "Witt Lowry - Like I Do"},
 ];
 
 /*Random music order?*/
